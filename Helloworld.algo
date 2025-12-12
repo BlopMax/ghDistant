@@ -5,7 +5,7 @@ Algo HelloWorld {
 		Mettre la dimension à 250, 250
 		Configurer la fenetre sur ‘exitOnClose’
 		// Création du label de texte
-		Créer un label avec du texte sur la gauche et contenant le texte HELLO_WORLD
+		Créer un label avec du texte sur la droite et contenant le texte HELLO_WORLD
 		Créer la couleur vert
 		Mettre la couleur vert sur le background
 		Créer la couleur bleu
