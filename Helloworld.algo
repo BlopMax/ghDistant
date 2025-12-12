@@ -6,7 +6,7 @@ Algo HelloWorld {
 		Configurer la fenetre sur ‘exitOnClose’
 		// Création du label de texte
 		Créer un label avec du texte centré et contenant le texte HELLO_WORLD
-		//J'édite le fichier
+		//J'édite un fichier
 		Créer la couleur vert
 		Mettre la couleur vert sur le background
 		Créer la couleur bleu
